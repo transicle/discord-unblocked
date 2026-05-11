@@ -1,15 +1,6 @@
-/**
- * 
- *  Modified verison of ScramJet's config, just replacing
- *   the default search engine to DuckDuckGo.
- * 
- *  I'm doing this because Google has captchas for suspicious IPs/proxy detection.
- * 
- */
-
 const store = $store(
 	{
-		url: "https://duckduckgo.com",
+		url: "https://discord.com/app",
 		wispurl:
 			globalThis?._CONFIG?.wispurl ||
 			(location.protocol === "https:" ? "wss" : "ws") +
