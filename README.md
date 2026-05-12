@@ -8,3 +8,5 @@ Create a GitHub Codespace, or download the code locally and run the following co
 ```bash
 $ bash scripts/init.sh
 ```
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/ec0ea144-acc3-4df2-a491-7e1a364f0cf5" />
